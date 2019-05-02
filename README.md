@@ -1,2 +1,2 @@
-# turbo-broccoli
+# Bandersnatch Game
 Interactive Story telling app 
